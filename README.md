@@ -1,6 +1,6 @@
 # ML-Arbol-de-desicion-XGBOOSTED
 
-Este README proporciona una visión general del proceso completo, desde la preparación de datos hasta el ajuste de hiperparámetros para XGBoost en AWS SageMaker. Incluye secciones sobre:
+Este Repo proporciona una visión general del proceso completo, desde la preparación de datos hasta el ajuste de hiperparámetros para XGBoost en AWS SageMaker. Incluye secciones sobre:
 
 ### Preparación de datos utilizando Amazon Athena y Apache Spark.
 ### Implementación de validación cruzada para evaluar el rendimiento del modelo.
